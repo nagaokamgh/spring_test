@@ -20,7 +20,7 @@ dev3修正
 aaa
 feature/2で追記
 
-feature/4のブランチ作成後masterで修正
+feature/4のブランチ作成後masterで修正競合するように修正
 feature/4の修正
 
 
