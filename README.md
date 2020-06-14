@@ -20,6 +20,6 @@ dev3修正
 aaa
 feature/2で追記
 
-feature/4のブランチ作成後masterで修正
+feature/4のブランチ作成後masterで修正feature4にマージ後に修正
 
 
